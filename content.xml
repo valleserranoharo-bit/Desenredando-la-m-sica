@@ -1,0 +1,1272 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE ode SYSTEM "content.dtd">
+<ode xmlns="http://www.intef.es/xsd/ode" version="2.0">
+<userPreferences>
+  <userPreference>
+    <key>theme</key>
+    <value>neo</value>
+  </userPreference>
+</userPreferences>
+<odeResources>
+  <odeResource>
+    <key>odeId</key>
+    <value>20260307110556PMESPV</value>
+  </odeResource>
+  <odeResource>
+    <key>odeVersionId</key>
+    <value>20260307110556ADN9JZ</value>
+  </odeResource>
+  <odeResource>
+    <key>exe_version</key>
+    <value>3.0</value>
+  </odeResource>
+</odeResources>
+<odeProperties>
+  <odeProperty>
+    <key>pp_title</key>
+    <value>Desenredando la música</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_author</key>
+    <value>Valle Serrano Haro</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_description</key>
+    <value>Secuencia didáctica para que los alumnos conozcan los cuatro principales tipos de texturas musicales desde su propia experiencia interpretativa</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_lang</key>
+    <value>es</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_license</key>
+    <value>creative commons: attribution - share alike 4.0</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_licenseUrl</key>
+    <value>https://creativecommons.org/licenses/by-sa/4.0/</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_theme</key>
+    <value>neo</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_exelearning_version</key>
+    <value>v4.0.0-beta1</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_modified</key>
+    <value>1772877828436</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addExeLink</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addPagination</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addSearchBox</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addAccessibilityToolbar</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_addMathJax</key>
+    <value>false</value>
+  </odeProperty>
+  <odeProperty>
+    <key>exportSource</key>
+    <value>true</value>
+  </odeProperty>
+  <odeProperty>
+    <key>pp_globalFont</key>
+    <value>default</value>
+  </odeProperty>
+  <odeProperty>
+    <key>footer</key>
+    <value>&lt;script type=&quot;text/javascript&quot; src=&quot;//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-5284973f565cc829&quot;&gt;&lt;/script&gt; 
+&lt;div class=&quot;addthis_inline_share_toolbox&quot;&gt;&lt;/div&gt;
+&lt;p style=&quot;text-align: center;&quot;&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Docentes &lt;a href=&quot;https://crea.educarex.es&quot; target=&quot;_blank&quot;&gt;CREA&lt;/a&gt; (Creación de Recursos Educativos Abiertos)&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;Versión de Valle Serrano Haro&lt;/span&gt;&lt;br /&gt;&lt;span style=&quot;font-size: 10pt;&quot;&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;!-- Global site tag (gtag.js) - Google Analytics --&gt;
+&lt;script async src=&quot;https://www.googletagmanager.com/gtag/js?id=UA-55163028-1&quot;&gt;&lt;/script&gt;
+&lt;script&gt;
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag(&apos;js&apos;, new Date());
+  gtag(&apos;config&apos;, &apos;UA-55163028-1&apos;);
+&lt;/script&gt;
+&lt;script&gt;
+$(&quot;#packageLicense a&quot;).click(function(){
+window.open(this.href);
+return false;
+});
+&lt;/script&gt;
+&lt;script&gt;
+$(function(){
+$(&quot;a.definition-tt&quot;).click(function(){
+return false;
+})
+});
+&lt;/script&gt;
+&lt;script&gt; $(function(){ $(&quot;a.definition-tt&quot;).click(function(){ return false; }) }); &lt;/script&gt;
+</value>
+  </odeProperty>
+</odeProperties>
+<odeNavStructures>
+<odeNavStructure>
+  <odePageId>page-mmg5onb6-86kt5ysfo</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Desenredando la música</pageName>
+  <odeNavStructureOrder>0</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desenredando la música</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Desenredando la música</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmg5onb6-86kt5ysfo</odePageId>
+      <odeBlockId>block-mmccv0y3-80z4lwifb</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onb6-86kt5ysfo</odePageId>
+          <odeBlockId>block-mmccv0y3-80z4lwifb</odeBlockId>
+          <odeIdeviceId>idevice-mmccv0y3-n4a8z679o</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>¿Te gustaría conocer uno de los secretos de la música? ¿Quieres conocer cómo hacen los compositores para que la música suene más llena?</p>
+<p><img src="{{context_path}}/content/resources/armennano-musical-accompaniment-4463982_1920.jpg" width="1366" height="911" alt="" />Imagen de armennano en Pixabay</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mmccv0y3-n4a8z679o","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>¿Te gustaría conocer uno de los secretos de la música? ¿Quieres conocer cómo hacen los compositores para que la música suene más llena?</p>\n<p><img src=\"{{context_path}}/content/resources/armennano-musical-accompaniment-4463982_1920.jpg\" width=\"1366\" height=\"911\" alt=\"\" />Imagen de armennano en Pixabay</p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmg5onba-0fyn6xx2q</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Nos organizamos</pageName>
+  <odeNavStructureOrder>1</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos organizamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Nos organizamos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmg5onba-0fyn6xx2q</odePageId>
+      <odeBlockId>block-mmccv0y3-435y2zgqx</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onba-0fyn6xx2q</odePageId>
+          <odeBlockId>block-mmccv0y3-435y2zgqx</odeBlockId>
+          <odeIdeviceId>idevice-mmccv0y3-cl27ff6vn</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Para poder entender qué pasa en una canción para que tenga una sonoridad u otra, primero deberíamos experimentarlas.</span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Para ello, interpretaremos en grupos varias partituras de características diferentes con <a href="{{context_path}}/content/resources/PonPonS.png" rel="lightbox">melodías distintas</a> en la mayoría de ellas.<br /></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">¡Ánimo!</span></p>
+<figure class="exe-figure exe-image license-CC-BY-SA position-center" style="width: 640px;"><img src="{{context_path}}/content/resources/ralf1403-calendar-10045176_640.jpg" alt="" title="En marcha" width="640" height="427" align="middle" />
+<figcaption class="figcaption">Imagen de Ralf1403 en Pixabay</figcaption>
+</figure>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"><br /><br /></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mmccv0y3-cl27ff6vn","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Para poder entender qué pasa en una canción para que tenga una sonoridad u otra, primero deberíamos experimentarlas.</span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Para ello, interpretaremos en grupos varias partituras de características diferentes con <a href=\"{{context_path}}/content/resources/PonPonS.png\" rel=\"lightbox\">melodías distintas</a> en la mayoría de ellas.<br /></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">¡Ánimo!</span></p>\n<figure class=\"exe-figure exe-image license-CC-BY-SA position-center\" style=\"width: 640px;\"><img src=\"{{context_path}}/content/resources/ralf1403-calendar-10045176_640.jpg\" alt=\"\" title=\"En marcha\" width=\"640\" height=\"427\" align=\"middle\" />\n<figcaption class=\"figcaption\">Imagen de Ralf1403 en Pixabay</figcaption>\n</figure>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"><br /><br /></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mmg5onba-0fyn6xx2q</odePageId>
+      <odeBlockId>block-mmccv0y3-vqlw06l0v</odeBlockId>
+      <blockName>Instrucciones</blockName>
+      <iconName>objectives</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onba-0fyn6xx2q</odePageId>
+          <odeBlockId>block-mmccv0y3-vqlw06l0v</odeBlockId>
+          <odeIdeviceId>idevice-mmccv0y3-2l691bkbt</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: right;"></p>
+<p style="text-align: right;"></p>
+<div class="exe-fx exe-accordion">
+<h2><span style="font-size: 14pt;">¿Vamos a trabajar solos o en grupo?</span></h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Vamos a trabajar en grupos de <strong>3 o 4 alumnos</strong> que formará el profesor, aunque habrá actividades en las que trabajaremos de forma individual. Para identificarlas fácilmente, a la izquierda de cada actividad habrá un icono identificativo del trabajo individual y otro del trabajo en grupo.<br /></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Estos son los iconos:</span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<table style="width: 21.2627%; margin-left: auto; margin-right: auto;">
+<tbody>
+<tr>
+<td style="width: 28.4464%;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Trabajo individual: </span></td>
+<td style="width: 10%;">
+<p><img src="{{context_path}}/content/resources/individual.png" alt="Trabajo individual" title="Trabajo individual" style="display: block; margin-left: auto; margin-right: auto;" width="100" height="100" /></p>
+<p></p>
+</td>
+</tr>
+<tr>
+<td style="width: 28.4464%;"><span style="font-family: comic sans ms, sans-serif; font-size: 14pt;">Trabajo en grupo:</span></td>
+<td style="width: 10%;">
+<p><img src="{{context_path}}/content/resources/grupo.jpg" alt="Trabajo en grupo" title="Trabajo en grupo" style="display: block; margin-left: auto; margin-right: auto;" width="100" height="100" /></p>
+</td>
+</tr>
+</tbody>
+</table>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"> </span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<h2><span style="font-size: 14pt;">¿Con qué instrumentos lo vamos a tocar?</span></h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Las vamos a interpretar con la <a href="https://home.ripley.cl/store/Attachment/WOP/D130/2000362435852/2000362435852_2.jpg" target="_blank" rel="lightbox noopener noreferrer">flauta </a>o con instrumentos de <a href="https://mcarmenfer.files.wordpress.com/2010/09/laminas.jpg" rel="lightbox">placas</a>, según lo especifique la partitura, aunque podemos sustituirlos por otros que sepamos tocar.</span></p>
+<h2><span style="font-size: 14pt;">¿Qué partituras vamos a tocar?</span></h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Cada grupo nos aprenderemos <strong>cuatro partituras</strong>, y tres de ellas tienen <a href="{{context_path}}/content/resources/PonPonS.png" rel="lightbox">melodías distintas</a>, por lo que cada componente del grupo tendremos que tocar melodías distintas. En el caso de que estemos más componentes que partes distintas, dos alumnos interpretaremos la misma melodía, preferiblemente <a href="{{context_path}}/content/resources/himno_parte.png" rel="lightbox">la más aguda.</a><br /></span></p>
+<h2><span style="font-size: 14pt;">¿Qué parte vamos a tocar cada uno de los componentes del grupo?</span></h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">La melodía que vamos a interpretar cada uno se decide entre todos ,y en función de nuestras <strong>capacidades interpretativas.</strong></span><span style="font-size: 14pt;"></span><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<h2><span style="font-size: 14pt;">¿A qué nos responsabilizamos?</span></h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">A aprendernos cada uno nuestra parte, para que cuando nos unamos, logremos la armonía que nos enseñará el secreto de la <strong>textura musical.</strong></span><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"><strong></strong></span></p>
+<h2><span style="font-size: 14pt;">¿Qué Función ejecutiva vamos a utilizar?</span></h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Para conocer qué función ejecutiva estamos trabajando en cada actividad, tan solo tendremos que pinchar en el icono de la Dra. Límbica que aparece al principio de cada actividad.<br /></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Esta es la Dra. Límbica.</span></p>
+<p><span style="font-size: 14pt;"><a title="Dra. Límbica" class="exe-dialog-link" rel="lightbox" href="#t63dad106-922b-7fa6-c9b3-1042f0b73fa7" id="link63dad106-922b-7fa6-c9b3-1042f0b73fa7"><span style="font-family: comic sans ms, sans-serif;"><img src="{{context_path}}/content/resources/Logo_doctora_L_1.png" alt="Dra Límbica" title="Dra Límbica" style="display: block; margin-left: auto; margin-right: auto;" width="110" height="100" /></span></a></span></p>
+<h2><span style="font-size: 14pt;">¿Qué técnica cooperativa vamos a seguir?</span></h2>
+<p><span style="font-family: comic sans ms, sans-serif; font-size: 14pt;">Vamos a seguir la técnica cooperativa del <strong><em>jigsaw</em></strong> o <strong>rompecabezas</strong>, donde cada miembro del grupo se va a especializar en una de las partes de la canción. </span></p>
+<p><span style="font-family: comic sans ms, sans-serif; font-size: 14pt;">Después, cada alumno saldrá de su grupo de referencia para agruparse con los que toquen la misma parte de la canción (grupo de expertos) y la tocarán juntos para perfeccionarla. </span></p>
+<p><span style="font-family: comic sans ms, sans-serif; font-size: 14pt;">El último paso será volver al grupo de referencia y poner los conocimientos en común, interpretando cada uno su parte en la pieza musical , y obteniendo así su sonoridad completa.</span></p>
+<h2><span style="font-size: 14pt;">¿Cómo nos van a evaluar?</span></h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Cuando interpretemos la partitura, nos autoevaluaremos como grupo en una plantilla.</span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Hay actividades donde se indica, de forma automática, si hemos acertado o fallado en la respuesta.</span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">En la actividad de evaluación del final, la propia actividad nos indicará el número de aciertos sobre 10.</span><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Para no perdernos en el camino vamos a imprimir esta <a href="{{context_path}}/content/resources/lista_de_verificacion.1.pdf" target="_blank" title="Lista de verificación" rel="noopener noreferrer" onclick="window.open('resources/lista_de_verificacion.1.pdf','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Lista de verificación</a> donde se muestran todas las secciones y actividades a realizar.</span></p>
+</div>
+<p style="text-align: justify;"></p>
+<div id="t63dad106-922b-7fa6-c9b3-1042f0b73fa7" class="exe-dialog-text js-hidden">
+<p>Conmigo conocerás las funciónes ejecutivas que estás trabajando.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: right;\"></p>\n<p style=\"text-align: right;\"></p>\n<div class=\"exe-fx exe-accordion\">\n<h2><span style=\"font-size: 14pt;\">¿Vamos a trabajar solos o en grupo?</span></h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Vamos a trabajar en grupos de <strong>3 o 4 alumnos</strong> que formará el profesor, aunque habrá actividades en las que trabajaremos de forma individual. Para identificarlas fácilmente, a la izquierda de cada actividad habrá un icono identificativo del trabajo individual y otro del trabajo en grupo.<br /></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Estos son los iconos:</span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<table style=\"width: 21.2627%; margin-left: auto; margin-right: auto;\">\n<tbody>\n<tr>\n<td style=\"width: 28.4464%;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Trabajo individual: </span></td>\n<td style=\"width: 10%;\">\n<p><img src=\"{{context_path}}/content/resources/individual.png\" alt=\"Trabajo individual\" title=\"Trabajo individual\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"100\" height=\"100\" /></p>\n<p></p>\n</td>\n</tr>\n<tr>\n<td style=\"width: 28.4464%;\"><span style=\"font-family: comic sans ms, sans-serif; font-size: 14pt;\">Trabajo en grupo:</span></td>\n<td style=\"width: 10%;\">\n<p><img src=\"{{context_path}}/content/resources/grupo.jpg\" alt=\"Trabajo en grupo\" title=\"Trabajo en grupo\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"100\" height=\"100\" /></p>\n</td>\n</tr>\n</tbody>\n</table>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"> </span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<h2><span style=\"font-size: 14pt;\">¿Con qué instrumentos lo vamos a tocar?</span></h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Las vamos a interpretar con la <a href=\"https://home.ripley.cl/store/Attachment/WOP/D130/2000362435852/2000362435852_2.jpg\" target=\"_blank\" rel=\"lightbox noopener noreferrer\">flauta </a>o con instrumentos de <a href=\"https://mcarmenfer.files.wordpress.com/2010/09/laminas.jpg\" rel=\"lightbox\">placas</a>, según lo especifique la partitura, aunque podemos sustituirlos por otros que sepamos tocar.</span></p>\n<h2><span style=\"font-size: 14pt;\">¿Qué partituras vamos a tocar?</span></h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Cada grupo nos aprenderemos <strong>cuatro partituras</strong>, y tres de ellas tienen <a href=\"{{context_path}}/content/resources/PonPonS.png\" rel=\"lightbox\">melodías distintas</a>, por lo que cada componente del grupo tendremos que tocar melodías distintas. En el caso de que estemos más componentes que partes distintas, dos alumnos interpretaremos la misma melodía, preferiblemente <a href=\"{{context_path}}/content/resources/himno_parte.png\" rel=\"lightbox\">la más aguda.</a><br /></span></p>\n<h2><span style=\"font-size: 14pt;\">¿Qué parte vamos a tocar cada uno de los componentes del grupo?</span></h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">La melodía que vamos a interpretar cada uno se decide entre todos ,y en función de nuestras <strong>capacidades interpretativas.</strong></span><span style=\"font-size: 14pt;\"></span><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<h2><span style=\"font-size: 14pt;\">¿A qué nos responsabilizamos?</span></h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">A aprendernos cada uno nuestra parte, para que cuando nos unamos, logremos la armonía que nos enseñará el secreto de la <strong>textura musical.</strong></span><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"><strong></strong></span></p>\n<h2><span style=\"font-size: 14pt;\">¿Qué Función ejecutiva vamos a utilizar?</span></h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Para conocer qué función ejecutiva estamos trabajando en cada actividad, tan solo tendremos que pinchar en el icono de la Dra. Límbica que aparece al principio de cada actividad.<br /></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Esta es la Dra. Límbica.</span></p>\n<p><span style=\"font-size: 14pt;\"><a title=\"Dra. Límbica\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#t63dad106-922b-7fa6-c9b3-1042f0b73fa7\" id=\"link63dad106-922b-7fa6-c9b3-1042f0b73fa7\"><span style=\"font-family: comic sans ms, sans-serif;\"><img src=\"{{context_path}}/content/resources/Logo_doctora_L_1.png\" alt=\"Dra Límbica\" title=\"Dra Límbica\" style=\"display: block; margin-left: auto; margin-right: auto;\" width=\"110\" height=\"100\" /></span></a></span></p>\n<h2><span style=\"font-size: 14pt;\">¿Qué técnica cooperativa vamos a seguir?</span></h2>\n<p><span style=\"font-family: comic sans ms, sans-serif; font-size: 14pt;\">Vamos a seguir la técnica cooperativa del <strong><em>jigsaw</em></strong> o <strong>rompecabezas</strong>, donde cada miembro del grupo se va a especializar en una de las partes de la canción. </span></p>\n<p><span style=\"font-family: comic sans ms, sans-serif; font-size: 14pt;\">Después, cada alumno saldrá de su grupo de referencia para agruparse con los que toquen la misma parte de la canción (grupo de expertos) y la tocarán juntos para perfeccionarla. </span></p>\n<p><span style=\"font-family: comic sans ms, sans-serif; font-size: 14pt;\">El último paso será volver al grupo de referencia y poner los conocimientos en común, interpretando cada uno su parte en la pieza musical , y obteniendo así su sonoridad completa.</span></p>\n<h2><span style=\"font-size: 14pt;\">¿Cómo nos van a evaluar?</span></h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Cuando interpretemos la partitura, nos autoevaluaremos como grupo en una plantilla.</span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Hay actividades donde se indica, de forma automática, si hemos acertado o fallado en la respuesta.</span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">En la actividad de evaluación del final, la propia actividad nos indicará el número de aciertos sobre 10.</span><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Para no perdernos en el camino vamos a imprimir esta <a href=\"{{context_path}}/content/resources/lista_de_verificacion.1.pdf\" target=\"_blank\" title=\"Lista de verificación\" rel=\"noopener noreferrer\" onclick=\"window.open('resources/lista_de_verificacion.1.pdf','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Lista de verificación</a> donde se muestran todas las secciones y actividades a realizar.</span></p>\n</div>\n<p style=\"text-align: justify;\"></p>\n<div id=\"t63dad106-922b-7fa6-c9b3-1042f0b73fa7\" class=\"exe-dialog-text js-hidden\">\n<p>Conmigo conocerás las funciónes ejecutivas que estás trabajando.</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmg5onbe-ftwwxg5s5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Puesta a punto</pageName>
+  <odeNavStructureOrder>2</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Puesta a punto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Puesta a punto</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmg5onbe-ftwwxg5s5</odePageId>
+      <odeBlockId>block-mmccv0y3-2ltrixgkc</odeBlockId>
+      <blockName>Actividad Previa</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onbe-ftwwxg5s5</odePageId>
+          <odeBlockId>block-mmccv0y3-2ltrixgkc</odeBlockId>
+          <odeIdeviceId>idevice-mmccv0y3-mc1zmxuke</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: right;"><a class="exe-dialog-link" rel="lightbox" href="#t35df2cd5-b4b8-19af-4c2c-771e3be2ed84" id="link35df2cd5-b4b8-19af-4c2c-771e3be2ed84"><img src="{{context_path}}/content/resources/Logo_doctora_L_1.png" alt="Función Ejecutiva" title="Función Ejecutiva" width="110" height="100" /></a><img src="{{context_path}}/content/resources/grupo.jpg" alt="Trabajo en grupo" title="Trabajo en grupo" width="100" height="100" /></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Estamos ya organizados en los <strong>grupos de 3 y de 4</strong> que ha formado el profesor. </span><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Podemos descargarnos el <a href="{{context_path}}/content/resources/GRUPO_COOPERATIVO.pdf" target="_blank" title="documento para formalizar el grupo" onclick="window.open('resources/GRUPO_COOPERATIVO.pdf','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;" rel="noopener noreferrer">documento para formalizar el grupo</a> con los cargos. En caso de que el grupo solo tenga tres miembros, el portavoz lo asumirá el coordinador.</span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"> </span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">En primer lugar, vamos a observar las partituras, y lo primero que vemos es que todas tienen 3 melodías, por lo que en <strong>los grupos de 4 deberán duplicar una de las voces</strong>, preferiblemente la aguda (la de más arriba).</span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">A continuación, <strong>vamos a seleccionar qué parte va a interpretar cada uno de los miembros del grupo</strong>, teniendo en cuenta la dificultad de cada partitura y la destreza interpretativa de cada alumno/alumna. Podemos fijarnos en <a class="exe-dialog-link" rel="lightbox" href="#t1d3589ba-8d73-629c-1b62-e9b3145b34d9" id="link1d3589ba-8d73-629c-1b62-e9b3145b34d9">estas ideas</a>. <br /></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Por último, vamos a <strong>descargar las partituras</strong> para trabajarlas de forma individual.</span></p>
+<div id="t1d3589ba-8d73-629c-1b62-e9b3145b34d9" class="exe-dialog-text js-hidden">
+<ul>
+<li><span style="font-size: 12pt;">Si el grupo es de 4, que el que tenga más dificultades sea el que duplica. </span></li>
+<li><span style="font-size: 12pt;">Muchas veces la melodía más grave (la de abajo) suele ser más complicada por la dificultad de las notas graves. </span></li>
+<li><span style="font-size: 12pt;">En ocasiones la parte aguda es la que más suena y es la más fácil. </span></li>
+<li><span style="font-size: 12pt;">La parte de los xilófonos no son ni más fáciles ni más difíciles, depende del sentido del ritmo del alumno/alumna.</span></li>
+<li><span style="font-size: 12pt;">No olvidéis que lo importante es el conjunto y no hay que pensar de forma egoísta, si no qué es lo mejor para el grupo</span></li>
+</ul>
+</div>
+<div id="t35df2cd5-b4b8-19af-4c2c-771e3be2ed84" class="exe-dialog-text js-hidden">
+<p>Aquí trabajaremos, sobre todo, la <strong>Planificación</strong>, porque sabemos que nuestro objetivo a corto plazo es interpretar, en conjunto, una pieza musical con varias voces distintas.</p>
+<p>Por ello, será muy importante determinar qué instrumento y qué voz vamos a tocar cada uno de nosotros, en función de lo bien que se nos de tocar la flauta o el xilófono. Debemos valorar qué parte de la canción debe sonar más y la dificultad que cada una de estas partes entraña.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: right;\"><a class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#t35df2cd5-b4b8-19af-4c2c-771e3be2ed84\" id=\"link35df2cd5-b4b8-19af-4c2c-771e3be2ed84\"><img src=\"{{context_path}}/content/resources/Logo_doctora_L_1.png\" alt=\"Función Ejecutiva\" title=\"Función Ejecutiva\" width=\"110\" height=\"100\" /></a><img src=\"{{context_path}}/content/resources/grupo.jpg\" alt=\"Trabajo en grupo\" title=\"Trabajo en grupo\" width=\"100\" height=\"100\" /></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Estamos ya organizados en los <strong>grupos de 3 y de 4</strong> que ha formado el profesor. </span><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Podemos descargarnos el <a href=\"{{context_path}}/content/resources/GRUPO_COOPERATIVO.pdf\" target=\"_blank\" title=\"documento para formalizar el grupo\" onclick=\"window.open('resources/GRUPO_COOPERATIVO.pdf','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\" rel=\"noopener noreferrer\">documento para formalizar el grupo</a> con los cargos. En caso de que el grupo solo tenga tres miembros, el portavoz lo asumirá el coordinador.</span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"> </span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">En primer lugar, vamos a observar las partituras, y lo primero que vemos es que todas tienen 3 melodías, por lo que en <strong>los grupos de 4 deberán duplicar una de las voces</strong>, preferiblemente la aguda (la de más arriba).</span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">A continuación, <strong>vamos a seleccionar qué parte va a interpretar cada uno de los miembros del grupo</strong>, teniendo en cuenta la dificultad de cada partitura y la destreza interpretativa de cada alumno/alumna. Podemos fijarnos en <a class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#t1d3589ba-8d73-629c-1b62-e9b3145b34d9\" id=\"link1d3589ba-8d73-629c-1b62-e9b3145b34d9\">estas ideas</a>. <br /></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Por último, vamos a <strong>descargar las partituras</strong> para trabajarlas de forma individual.</span></p>\n<div id=\"t1d3589ba-8d73-629c-1b62-e9b3145b34d9\" class=\"exe-dialog-text js-hidden\">\n<ul>\n<li><span style=\"font-size: 12pt;\">Si el grupo es de 4, que el que tenga más dificultades sea el que duplica. </span></li>\n<li><span style=\"font-size: 12pt;\">Muchas veces la melodía más grave (la de abajo) suele ser más complicada por la dificultad de las notas graves. </span></li>\n<li><span style=\"font-size: 12pt;\">En ocasiones la parte aguda es la que más suena y es la más fácil. </span></li>\n<li><span style=\"font-size: 12pt;\">La parte de los xilófonos no son ni más fáciles ni más difíciles, depende del sentido del ritmo del alumno/alumna.</span></li>\n<li><span style=\"font-size: 12pt;\">No olvidéis que lo importante es el conjunto y no hay que pensar de forma egoísta, si no qué es lo mejor para el grupo</span></li>\n</ul>\n</div>\n<div id=\"t35df2cd5-b4b8-19af-4c2c-771e3be2ed84\" class=\"exe-dialog-text js-hidden\">\n<p>Aquí trabajaremos, sobre todo, la <strong>Planificación</strong>, porque sabemos que nuestro objetivo a corto plazo es interpretar, en conjunto, una pieza musical con varias voces distintas.</p>\n<p>Por ello, será muy importante determinar qué instrumento y qué voz vamos a tocar cada uno de nosotros, en función de lo bien que se nos de tocar la flauta o el xilófono. Debemos valorar qué parte de la canción debe sonar más y la dificultad que cada una de estas partes entraña.</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mmg5onbe-ftwwxg5s5</odePageId>
+      <odeBlockId>block-mmccv0y4-ty3is0ddf</odeBlockId>
+      <blockName>Actividad 1: Nos aprendemos las partituras</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onbe-ftwwxg5s5</odePageId>
+          <odeBlockId>block-mmccv0y4-ty3is0ddf</odeBlockId>
+          <odeIdeviceId>idevice-mmccv0y4-udeehaqjx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: right;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"><a title="Funciones Ejecutivas" class="exe-dialog-link" rel="lightbox" href="#t740a8bbb-5629-e3f2-5cbd-6618550b0f71" id="link740a8bbb-5629-e3f2-5cbd-6618550b0f71"><img src="{{context_path}}/content/resources/Logo_doctora_L_1.png" alt="Funciones Ejecutivas" title="Funciones Ejecutivas" width="110" height="100" /></a><img src="{{context_path}}/content/resources/individual.png" alt="Trabajo individual" title="Trabajo individual" width="100" height="100" /> </span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Vamos a trabajar las partituras d<strong>e forma individual.</strong> Si es necesario, podemos repasar las <a href="{{context_path}}/content/resources/posiciones_fl.jpg" rel="lightbox" title="Posiciones flauta. Autor José Luis López">posiciones </a>de las notas de la flauta.</span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Como apoyo, una vez que las hayamos estudiado, podemos tocarlas sobre la propia melodía de forma online. Para los que tengan más dificultades para el estudio individual, pueden trabajarla con las posiciones de flauta en la sección de vídeos, donde podemos ver todas las partes de las cuatro partituras.</span></p>
+<div class="exe-fx exe-tabs" style="text-align: center;">
+<h2><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">PARTITURAS</span></h2>
+<p style="text-align: right;"><span style="font-size: 14pt;"><a title="Funciones Ejecutivas" class="exe-dialog-link" rel="lightbox" href="#td3f8cbc2-a8df-d5cb-c0c9-fc2e215a5e69" id="linkd3f8cbc2-a8df-d5cb-c0c9-fc2e215a5e69"><span style="font-family: comic sans ms, sans-serif;"><img src="{{context_path}}/content/resources/Logo_doctora_L_1.png" alt="Función Ejecutiva" title="Función Ejecutiva" width="110" height="100" /></span></a></span></p>
+<p style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">En este enlace podemos descargar las <a href="{{context_path}}/content/resources/Partituras_Texturas.pdf" target="_blank" rel="noopener noreferrer" title="partituras " onclick="window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">partituras </a>e imprimirlas para trabajarlas en casa o en clase.</span></p>
+<figure class="exe-figure exe-image position-center license-CC-BY-SA" style="width: 800px;"><img src="{{context_path}}/content/resources/canon_notas.png" alt="Dónde están las llaves" title="Dónde están las llaves" style="vertical-align: middle;" width="800" height="618" align="middle" />
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <span class="title"><em>Dónde están las llaves</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure exe-image position-center license-CC-BY-SA" style="width: 800px;"><img src="{{context_path}}/content/resources/PonPon.png" alt="El Pompon" title="El Pompon" width="800" height="618" />
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <span class="title"><em>El Ponpón</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure exe-image position-center license-CC-BY-SA" style="width: 800px;"><img src="{{context_path}}/content/resources/canon_notas.png" alt="El canon de las notas" title="El canon de las notas" width="800" height="618" />
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <span class="title"><em>El canon de las notas</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<figure class="exe-figure exe-image position-center license-CC-BY-SA" style="width: 800px;"><img src="{{context_path}}/content/resources/himno.png" alt="El Himno de la Alegría" title="El Himno de la Alegría" width="800" height="618" />
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <span class="title"><em>El Himno de la Alegría</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"><br /><br /><br /></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<h2><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">ONLINE</span></h2>
+<p style="text-align: right;"><span style="font-size: 14pt;"><a title="Funciones Ejecutivas" class="exe-dialog-link" rel="lightbox" href="#tcf673415-fe86-912d-e9a6-8be5ef4f53eb" id="linkcf673415-fe86-912d-e9a6-8be5ef4f53eb"><span style="font-family: comic sans ms, sans-serif;"><img src="{{context_path}}/content/resources/Logo_doctora_L_1.png" alt="Función Ejecutiva" title="Función Ejecutiva" width="110" height="100" /></span></a></span></p>
+<p style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">También tenemos a continuación la partitura en MuseScore por si la queremos trabajar escuchándola. Puedes <a href="{{context_path}}/content/resources/modifica_velocidad.png" rel="lightbox">modificar la velocidad</a> de la música para adaptarla a tu nivel.<br /></span></p>
+<p></p>
+<iframe width="100%" height="394" style="border: 0;" src="https://musescore.com/user/31828439/scores/5526843/embed" allowfullscreen="allowfullscreen"></iframe><span><a href="https://musescore.com/user/31828439/scores/5526843" target="_blank" rel="noopener noreferrer" onclick="window.open('https://musescore.com/user/31828439/scores/5526843','Archivos de José Luis López','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;">"Dónde están las llaves"</a> by <a href="https://musescore.com/user/31828439" title="José Luis López" onclick="window.open('https://musescore.com/user/31828439','eXeLearningPopup','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;">jllopeza01</a></span>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<iframe width="100%" height="394" style="border: 0;" src="https://musescore.com/user/31828439/scores/5526845/embed" allowfullscreen="allowfullscreen"></iframe><span><a href="https://musescore.com/user/31828439/scores/5526845" onclick="window.open('https://musescore.com/user/31828439/scores/5526845','eXeLearningPopup','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;" target="_blank" rel="noopener noreferrer">"PonPon"</a> by <a href="https://musescore.com/user/31828439" onclick="window.open('https://musescore.com/user/31828439','eXeLearningPopup','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;" target="_blank" rel="noopener noreferrer">jllopeza01</a></span>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<iframe width="100%" height="394" style="border: 0;" src="https://musescore.com/user/31828439/scores/5526840/embed" allowfullscreen="allowfullscreen"></iframe><span><a href="https://musescore.com/user/31828439/scores/5526840" title="Canon de las notas notas" onclick="window.open('https://musescore.com/user/31828439/scores/5526840','Canon de las notas notas','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;">"Canon de las notas notas"</a> by <a href="https://musescore.com/user/31828439" title="José Luis López" onclick="window.open('https://musescore.com/user/31828439','José Luis López','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;">jllopeza01</a></span>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<iframe width="100%" height="394" style="border: 0;" src="https://musescore.com/user/31828439/scores/5524970/embed" allowfullscreen="allowfullscreen"></iframe><span><a href="https://musescore.com/user/31828439/scores/5524970" title="Himno de la Alegría" onclick="window.open('https://musescore.com/user/31828439/scores/5524970','Himno de la Alegría','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;">"Himno de la Alegría"</a> by <a href="https://musescore.com/user/31828439" title="José Luis López" onclick="window.open('https://musescore.com/user/31828439','José Luis López','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;">jllopeza01</a></span>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span>
+<h2><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">VÍDEOS<br /></span></h2>
+<p style="text-align: right;"><span style="font-size: 14pt;"><a title="Función Ejecutiva" class="exe-dialog-link" rel="lightbox" href="#t70813b7d-ac4d-bc5d-ca51-fba16fe8abb7" id="link70813b7d-ac4d-bc5d-ca51-fba16fe8abb7"><span style="font-family: comic sans ms, sans-serif;"><img src="{{context_path}}/content/resources/Logo_doctora_L_1.png" alt="Función Ejecutiva" title="Función Ejecutiva" width="110" height="100" /></span></a></span></p>
+<p style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">En los siguientes vídeos tenemos todas las partes de la canción con las posiciones de flauta.</span></p>
+<p style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<p style="text-align: left;"><span style="font-size: 14pt;"><strong><span style="font-family: comic sans ms, sans-serif;">Dónde están las Llaves</span></strong></span></p>
+<ul>
+<li style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Flauta 1, 2 y 3</span></li>
+</ul>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 560px;"><iframe width="560" height="314" src="//www.youtube.com/embed/LVF6sNZkR-g" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <span class="title"><em>"<a href="https://youtu.be/LVF6sNZkR-g" onclick="window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">Dónde están las Llaves</a>" Flauta 1, 2 y 3</em></span> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: left;"><span style="font-size: 14pt;"><strong><span style="font-family: comic sans ms, sans-serif;">El Ponpón</span></strong></span></p>
+<ul>
+<li style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Flauta 1</span></li>
+</ul>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 600px;"><iframe width="600" height="314" src="//www.youtube.com/embed/CBjZqQLYs5A" allowfullscreen="allowfullscreen" data-mce-fragment="1"></iframe>
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <a href="https://youtu.be/CBjZqQLYs5A" onclick="window.open(this.href,'eXeLearningPopup','width=800,height=600,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-300)+'');return false;"><span class="title"><em>El Ponpón - Flauta 1</em></span></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<ul>
+<li style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Flauta 2</span></li>
+</ul>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 600px;"><iframe width="600" height="314" src="//www.youtube.com/embed/4hHzvKX7iiw" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <a href="https://youtu.be/CBjZqQLYs5A" onclick="window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;"><span class="title"><em>El Ponpón - Flauta 2</em></span></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<ul>
+<li style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Flauta 3</span></li>
+</ul>
+<figure class="exe-figure exe-media position-center" style="width: 560px;"><iframe width="560" height="314" src="//www.youtube.com/embed/5mb40AtbJQ8" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <a href="https://youtu.be/5mb40AtbJQ8" onclick="window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">El Ponpón - Flauta 3</a></figcaption>
+</figure>
+<p style="text-align: left;"><span style="font-size: 14pt;"><strong><span style="font-family: comic sans ms, sans-serif;">El canon de las notas</span></strong></span></p>
+<ul>
+<li style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Flauta 1, 2 y 3</span></li>
+</ul>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 600px;"><iframe width="600" height="314" src="//www.youtube.com/embed/Wvd8rc7XsQM" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <a href="https://youtu.be/Wvd8rc7XsQM" onclick="window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">El Canon de las notas</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<p style="text-align: left;"><span style="font-size: 14pt;"><strong><span style="font-family: comic sans ms, sans-serif;">El Himno de la Alegría</span></strong></span></p>
+<ul>
+<li style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Flauta</span></li>
+</ul>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 600px;"><iframe width="600" height="314" src="//www.youtube.com/embed/uU16KY8VGkE" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <a href="https://youtu.be/uU16KY8VGkE" onclick="window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">El Himno de la alegría - Flauta</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<ul>
+<li style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Xilófono 1</span></li>
+</ul>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 600px;"><iframe width="600" height="314" src="//www.youtube.com/embed/Mq02vX96w9s" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <a href="https://youtu.be/Mq02vX96w9s" onclick="window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;"><span class="title"><em>El Himno de la Alegría - xilófono 1</em></span></a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+<ul>
+<li style="text-align: left;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Xilófono 2</span></li>
+</ul>
+<figure class="exe-figure exe-media position-center license-CC-BY-SA" style="width: 600px;"><iframe width="600" height="314" src="//www.youtube.com/embed/xAT0rwQq_jg" allowfullscreen="allowfullscreen"></iframe>
+<figcaption class="figcaption"><span class="author">José Luis López Atarés</span>. <a href="https://youtu.be/xAT0rwQq_jg" onclick="window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">El Himno de la Alegría - xilófono 2</a> <span class="license"><span class="sep">(</span><a href="http://creativecommons.org/licenses/?lang=es" rel="license nofollow noopener noreferrer" target="_blank" title="Creative Commons BY-SA">CC BY-SA</a><span class="sep">)</span></span></figcaption>
+</figure>
+</div>
+<p></p>
+<div id="t740a8bbb-5629-e3f2-5cbd-6618550b0f71" class="exe-dialog-text js-hidden">
+<p>En cada aprtado veremos qué Función Ejecutiva trabajamos.</p>
+</div>
+<div id="td3f8cbc2-a8df-d5cb-c0c9-fc2e215a5e69" class="exe-dialog-text js-hidden">
+<p>En esta actividad trabajaremos varias funciones ejecutivas.</p>
+<p>Cuando leamos la partitura, trabajaremos la <strong>Atención selectiva</strong>, puesto que la lectura musical conlleva un movimiento secuencial y línea que debemos seguir, empezando en una nota y pasando a la siguiente, pero teniendo en cuanta los signos de repetición que nos hacen retroceder para poder continuar.</p>
+<p>También trabajaremos la <strong>Inhibición</strong>, ya que tendremos que ignorar estímulos irrelevantes que nos impidan continuar el estudio.</p>
+<p>Trabajaremos la <strong>Memoria de trabajo</strong> porque tendremos que usar nuestros conocimientos musicales para poder decodificar los sonidos que representan las notas y figuras musicales y la <strong>Memoria procedimental</strong>, debido a la habilidad que hemos adquirido con el tiempo para aprender a tocar la flauta.</p>
+<p>Por último trabajaremos la <strong>Atención dividida</strong> porque cada nota musical nos da información al menos de dos aspectos: la altura de la nota, la duración y en algunos casos la intensidad. Esto quiere decir, los agujeros que debemos tapar con los dedos en la flauta, y lo que debe durar esa nota, y la fuerza con la que debemos soplar, todo esto en décimas de segundo.</p>
+</div>
+<div id="tcf673415-fe86-912d-e9a6-8be5ef4f53eb" class="exe-dialog-text js-hidden">
+<p>En este caso se supone que ya hemos hecho el trabajo de estudio de la partitura y vamos a ensayar con sobre la propia melodía.</p>
+<p>Aquí sobre todo trabajaremos la <strong>Inhibición</strong>, puesto que la melodía no va a detenerse, y tenemos que evitar cualquier distracción para no perder la pulsación de la reproducción online.</p>
+<p>Trabajaremos la <strong>Atención sostenida</strong>, porque debemos escuchar la melodía de la reproducción para ir al mismo tempo.</p>
+<p>También puntualmente utilizaremos la <strong>Flexibilidad cognitiva</strong>, porque si en un momento dado nos paramos, para no empezar de nuevo, tenemos que intentar retomar la canción en el punto en el que esté la reproducción online.</p>
+<p>Otra función ejecutiva que trabajaremos será la <strong>Planificación</strong>, porque vamos a determinar la velocidad de la reproducción online, en función de la soltura con la que nos sabemos ya la partitura.</p>
+<p>Vamos a trabajar la <strong>Metacognición</strong> porque al tocar sobre la melodía, podremos valorar si la hemos estudiado bien o no, encontrar los fallos, localizar las dificultades y repasarla si es necesario.</p>
+<p>Igualmente usaremos la <strong>Atención dividida</strong> porque debemos de estar pendiente de nuestra interpretación y la del reproductor.</p>
+<p>Por último trabajaremos la <strong>Memoria de trabajo</strong>, puesto que vamos a reproducir, sobre una audio, la partitura que previamente hemos aprendido, y la <strong>Memoria procedimental</strong>, debido a la habilidad que hemos adquirido con el tiempo para aprender a tocar la flauta.</p>
+</div>
+<div id="t70813b7d-ac4d-bc5d-ca51-fba16fe8abb7" class="exe-dialog-text js-hidden">
+<p>A los alumnos que les falta destreza en la lectura musical, optan por aprenderse las melodías por imitación. Para esto son estos vídeos.</p>
+<p>En este caso trabajamos la <strong>Inhibición</strong>, para que ningún estímulo nos distraiga del foco que supone seguir el vídeo.</p>
+<p>Trabajaremos la <strong>Atención sostenida</strong>, para estar pendiente en todo momento de las posiciones de flauta.</p>
+<p>También vamos a trabajar la <strong>Metacognición</strong> porque al tocar sobre el vídeo, podremos valorar si nos la sabemos o no, y así repetirla hasta lograr el nivel deseado.</p>
+<p>Por último trabajaremos la <strong>Memoria procedimental</strong>, ya que vamos a aprender a tocar la flauta de la forma más básica, por imitación, ya vamos a desarrollar nuestra habilidad para tocar este instrumento.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: right;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"><a title=\"Funciones Ejecutivas\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#t740a8bbb-5629-e3f2-5cbd-6618550b0f71\" id=\"link740a8bbb-5629-e3f2-5cbd-6618550b0f71\"><img src=\"{{context_path}}/content/resources/Logo_doctora_L_1.png\" alt=\"Funciones Ejecutivas\" title=\"Funciones Ejecutivas\" width=\"110\" height=\"100\" /></a><img src=\"{{context_path}}/content/resources/individual.png\" alt=\"Trabajo individual\" title=\"Trabajo individual\" width=\"100\" height=\"100\" /> </span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Vamos a trabajar las partituras d<strong>e forma individual.</strong> Si es necesario, podemos repasar las <a href=\"{{context_path}}/content/resources/posiciones_fl.jpg\" rel=\"lightbox\" title=\"Posiciones flauta. Autor José Luis López\">posiciones </a>de las notas de la flauta.</span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Como apoyo, una vez que las hayamos estudiado, podemos tocarlas sobre la propia melodía de forma online. Para los que tengan más dificultades para el estudio individual, pueden trabajarla con las posiciones de flauta en la sección de vídeos, donde podemos ver todas las partes de las cuatro partituras.</span></p>\n<div class=\"exe-fx exe-tabs\" style=\"text-align: center;\">\n<h2><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">PARTITURAS</span></h2>\n<p style=\"text-align: right;\"><span style=\"font-size: 14pt;\"><a title=\"Funciones Ejecutivas\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#td3f8cbc2-a8df-d5cb-c0c9-fc2e215a5e69\" id=\"linkd3f8cbc2-a8df-d5cb-c0c9-fc2e215a5e69\"><span style=\"font-family: comic sans ms, sans-serif;\"><img src=\"{{context_path}}/content/resources/Logo_doctora_L_1.png\" alt=\"Función Ejecutiva\" title=\"Función Ejecutiva\" width=\"110\" height=\"100\" /></span></a></span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">En este enlace podemos descargar las <a href=\"{{context_path}}/content/resources/Partituras_Texturas.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"partituras \" onclick=\"window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">partituras </a>e imprimirlas para trabajarlas en casa o en clase.</span></p>\n<figure class=\"exe-figure exe-image position-center license-CC-BY-SA\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/canon_notas.png\" alt=\"Dónde están las llaves\" title=\"Dónde están las llaves\" style=\"vertical-align: middle;\" width=\"800\" height=\"618\" align=\"middle\" />\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <span class=\"title\"><em>Dónde están las llaves</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure exe-image position-center license-CC-BY-SA\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/PonPon.png\" alt=\"El Pompon\" title=\"El Pompon\" width=\"800\" height=\"618\" />\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <span class=\"title\"><em>El Ponpón</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure exe-image position-center license-CC-BY-SA\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/canon_notas.png\" alt=\"El canon de las notas\" title=\"El canon de las notas\" width=\"800\" height=\"618\" />\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <span class=\"title\"><em>El canon de las notas</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<figure class=\"exe-figure exe-image position-center license-CC-BY-SA\" style=\"width: 800px;\"><img src=\"{{context_path}}/content/resources/himno.png\" alt=\"El Himno de la Alegría\" title=\"El Himno de la Alegría\" width=\"800\" height=\"618\" />\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <span class=\"title\"><em>El Himno de la Alegría</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"><br /><br /><br /></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<h2><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">ONLINE</span></h2>\n<p style=\"text-align: right;\"><span style=\"font-size: 14pt;\"><a title=\"Funciones Ejecutivas\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#tcf673415-fe86-912d-e9a6-8be5ef4f53eb\" id=\"linkcf673415-fe86-912d-e9a6-8be5ef4f53eb\"><span style=\"font-family: comic sans ms, sans-serif;\"><img src=\"{{context_path}}/content/resources/Logo_doctora_L_1.png\" alt=\"Función Ejecutiva\" title=\"Función Ejecutiva\" width=\"110\" height=\"100\" /></span></a></span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">También tenemos a continuación la partitura en MuseScore por si la queremos trabajar escuchándola. Puedes <a href=\"{{context_path}}/content/resources/modifica_velocidad.png\" rel=\"lightbox\">modificar la velocidad</a> de la música para adaptarla a tu nivel.<br /></span></p>\n<p></p>\n<iframe width=\"100%\" height=\"394\" style=\"border: 0;\" src=\"https://musescore.com/user/31828439/scores/5526843/embed\" allowfullscreen=\"allowfullscreen\"></iframe><span><a href=\"https://musescore.com/user/31828439/scores/5526843\" target=\"_blank\" rel=\"noopener noreferrer\" onclick=\"window.open('https://musescore.com/user/31828439/scores/5526843','Archivos de José Luis López','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;\">\"Dónde están las llaves\"</a> by <a href=\"https://musescore.com/user/31828439\" title=\"José Luis López\" onclick=\"window.open('https://musescore.com/user/31828439','eXeLearningPopup','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;\">jllopeza01</a></span>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<iframe width=\"100%\" height=\"394\" style=\"border: 0;\" src=\"https://musescore.com/user/31828439/scores/5526845/embed\" allowfullscreen=\"allowfullscreen\"></iframe><span><a href=\"https://musescore.com/user/31828439/scores/5526845\" onclick=\"window.open('https://musescore.com/user/31828439/scores/5526845','eXeLearningPopup','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;\" target=\"_blank\" rel=\"noopener noreferrer\">\"PonPon\"</a> by <a href=\"https://musescore.com/user/31828439\" onclick=\"window.open('https://musescore.com/user/31828439','eXeLearningPopup','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;\" target=\"_blank\" rel=\"noopener noreferrer\">jllopeza01</a></span>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<iframe width=\"100%\" height=\"394\" style=\"border: 0;\" src=\"https://musescore.com/user/31828439/scores/5526840/embed\" allowfullscreen=\"allowfullscreen\"></iframe><span><a href=\"https://musescore.com/user/31828439/scores/5526840\" title=\"Canon de las notas notas\" onclick=\"window.open('https://musescore.com/user/31828439/scores/5526840','Canon de las notas notas','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;\">\"Canon de las notas notas\"</a> by <a href=\"https://musescore.com/user/31828439\" title=\"José Luis López\" onclick=\"window.open('https://musescore.com/user/31828439','José Luis López','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;\">jllopeza01</a></span>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<iframe width=\"100%\" height=\"394\" style=\"border: 0;\" src=\"https://musescore.com/user/31828439/scores/5524970/embed\" allowfullscreen=\"allowfullscreen\"></iframe><span><a href=\"https://musescore.com/user/31828439/scores/5524970\" title=\"Himno de la Alegría\" onclick=\"window.open('https://musescore.com/user/31828439/scores/5524970','Himno de la Alegría','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;\">\"Himno de la Alegría\"</a> by <a href=\"https://musescore.com/user/31828439\" title=\"José Luis López\" onclick=\"window.open('https://musescore.com/user/31828439','José Luis López','width=800,height=640,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-320)+'');return false;\">jllopeza01</a></span>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span>\n<h2><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">VÍDEOS<br /></span></h2>\n<p style=\"text-align: right;\"><span style=\"font-size: 14pt;\"><a title=\"Función Ejecutiva\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#t70813b7d-ac4d-bc5d-ca51-fba16fe8abb7\" id=\"link70813b7d-ac4d-bc5d-ca51-fba16fe8abb7\"><span style=\"font-family: comic sans ms, sans-serif;\"><img src=\"{{context_path}}/content/resources/Logo_doctora_L_1.png\" alt=\"Función Ejecutiva\" title=\"Función Ejecutiva\" width=\"110\" height=\"100\" /></span></a></span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">En los siguientes vídeos tenemos todas las partes de la canción con las posiciones de flauta.</span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<p style=\"text-align: left;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: comic sans ms, sans-serif;\">Dónde están las Llaves</span></strong></span></p>\n<ul>\n<li style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Flauta 1, 2 y 3</span></li>\n</ul>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 560px;\"><iframe width=\"560\" height=\"314\" src=\"//www.youtube.com/embed/LVF6sNZkR-g\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <span class=\"title\"><em>\"<a href=\"https://youtu.be/LVF6sNZkR-g\" onclick=\"window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">Dónde están las Llaves</a>\" Flauta 1, 2 y 3</em></span> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: left;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: comic sans ms, sans-serif;\">El Ponpón</span></strong></span></p>\n<ul>\n<li style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Flauta 1</span></li>\n</ul>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 600px;\"><iframe width=\"600\" height=\"314\" src=\"//www.youtube.com/embed/CBjZqQLYs5A\" allowfullscreen=\"allowfullscreen\" data-mce-fragment=\"1\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <a href=\"https://youtu.be/CBjZqQLYs5A\" onclick=\"window.open(this.href,'eXeLearningPopup','width=800,height=600,left='+(screen.availWidth/2-400)+',top='+(screen.availHeight/2-300)+'');return false;\"><span class=\"title\"><em>El Ponpón - Flauta 1</em></span></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<ul>\n<li style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Flauta 2</span></li>\n</ul>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 600px;\"><iframe width=\"600\" height=\"314\" src=\"//www.youtube.com/embed/4hHzvKX7iiw\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <a href=\"https://youtu.be/CBjZqQLYs5A\" onclick=\"window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\"><span class=\"title\"><em>El Ponpón - Flauta 2</em></span></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<ul>\n<li style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Flauta 3</span></li>\n</ul>\n<figure class=\"exe-figure exe-media position-center\" style=\"width: 560px;\"><iframe width=\"560\" height=\"314\" src=\"//www.youtube.com/embed/5mb40AtbJQ8\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <a href=\"https://youtu.be/5mb40AtbJQ8\" onclick=\"window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">El Ponpón - Flauta 3</a></figcaption>\n</figure>\n<p style=\"text-align: left;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: comic sans ms, sans-serif;\">El canon de las notas</span></strong></span></p>\n<ul>\n<li style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Flauta 1, 2 y 3</span></li>\n</ul>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 600px;\"><iframe width=\"600\" height=\"314\" src=\"//www.youtube.com/embed/Wvd8rc7XsQM\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <a href=\"https://youtu.be/Wvd8rc7XsQM\" onclick=\"window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">El Canon de las notas</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<p style=\"text-align: left;\"><span style=\"font-size: 14pt;\"><strong><span style=\"font-family: comic sans ms, sans-serif;\">El Himno de la Alegría</span></strong></span></p>\n<ul>\n<li style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Flauta</span></li>\n</ul>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 600px;\"><iframe width=\"600\" height=\"314\" src=\"//www.youtube.com/embed/uU16KY8VGkE\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <a href=\"https://youtu.be/uU16KY8VGkE\" onclick=\"window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">El Himno de la alegría - Flauta</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<ul>\n<li style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Xilófono 1</span></li>\n</ul>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 600px;\"><iframe width=\"600\" height=\"314\" src=\"//www.youtube.com/embed/Mq02vX96w9s\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <a href=\"https://youtu.be/Mq02vX96w9s\" onclick=\"window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\"><span class=\"title\"><em>El Himno de la Alegría - xilófono 1</em></span></a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n<ul>\n<li style=\"text-align: left;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Xilófono 2</span></li>\n</ul>\n<figure class=\"exe-figure exe-media position-center license-CC-BY-SA\" style=\"width: 600px;\"><iframe width=\"600\" height=\"314\" src=\"//www.youtube.com/embed/xAT0rwQq_jg\" allowfullscreen=\"allowfullscreen\"></iframe>\n<figcaption class=\"figcaption\"><span class=\"author\">José Luis López Atarés</span>. <a href=\"https://youtu.be/xAT0rwQq_jg\" onclick=\"window.open(this.href,'eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">El Himno de la Alegría - xilófono 2</a> <span class=\"license\"><span class=\"sep\">(</span><a href=\"http://creativecommons.org/licenses/?lang=es\" rel=\"license nofollow noopener noreferrer\" target=\"_blank\" title=\"Creative Commons BY-SA\">CC BY-SA</a><span class=\"sep\">)</span></span></figcaption>\n</figure>\n</div>\n<p></p>\n<div id=\"t740a8bbb-5629-e3f2-5cbd-6618550b0f71\" class=\"exe-dialog-text js-hidden\">\n<p>En cada aprtado veremos qué Función Ejecutiva trabajamos.</p>\n</div>\n<div id=\"td3f8cbc2-a8df-d5cb-c0c9-fc2e215a5e69\" class=\"exe-dialog-text js-hidden\">\n<p>En esta actividad trabajaremos varias funciones ejecutivas.</p>\n<p>Cuando leamos la partitura, trabajaremos la <strong>Atención selectiva</strong>, puesto que la lectura musical conlleva un movimiento secuencial y línea que debemos seguir, empezando en una nota y pasando a la siguiente, pero teniendo en cuanta los signos de repetición que nos hacen retroceder para poder continuar.</p>\n<p>También trabajaremos la <strong>Inhibición</strong>, ya que tendremos que ignorar estímulos irrelevantes que nos impidan continuar el estudio.</p>\n<p>Trabajaremos la <strong>Memoria de trabajo</strong> porque tendremos que usar nuestros conocimientos musicales para poder decodificar los sonidos que representan las notas y figuras musicales y la <strong>Memoria procedimental</strong>, debido a la habilidad que hemos adquirido con el tiempo para aprender a tocar la flauta.</p>\n<p>Por último trabajaremos la <strong>Atención dividida</strong> porque cada nota musical nos da información al menos de dos aspectos: la altura de la nota, la duración y en algunos casos la intensidad. Esto quiere decir, los agujeros que debemos tapar con los dedos en la flauta, y lo que debe durar esa nota, y la fuerza con la que debemos soplar, todo esto en décimas de segundo.</p>\n</div>\n<div id=\"tcf673415-fe86-912d-e9a6-8be5ef4f53eb\" class=\"exe-dialog-text js-hidden\">\n<p>En este caso se supone que ya hemos hecho el trabajo de estudio de la partitura y vamos a ensayar con sobre la propia melodía.</p>\n<p>Aquí sobre todo trabajaremos la <strong>Inhibición</strong>, puesto que la melodía no va a detenerse, y tenemos que evitar cualquier distracción para no perder la pulsación de la reproducción online.</p>\n<p>Trabajaremos la <strong>Atención sostenida</strong>, porque debemos escuchar la melodía de la reproducción para ir al mismo tempo.</p>\n<p>También puntualmente utilizaremos la <strong>Flexibilidad cognitiva</strong>, porque si en un momento dado nos paramos, para no empezar de nuevo, tenemos que intentar retomar la canción en el punto en el que esté la reproducción online.</p>\n<p>Otra función ejecutiva que trabajaremos será la <strong>Planificación</strong>, porque vamos a determinar la velocidad de la reproducción online, en función de la soltura con la que nos sabemos ya la partitura.</p>\n<p>Vamos a trabajar la <strong>Metacognición</strong> porque al tocar sobre la melodía, podremos valorar si la hemos estudiado bien o no, encontrar los fallos, localizar las dificultades y repasarla si es necesario.</p>\n<p>Igualmente usaremos la <strong>Atención dividida</strong> porque debemos de estar pendiente de nuestra interpretación y la del reproductor.</p>\n<p>Por último trabajaremos la <strong>Memoria de trabajo</strong>, puesto que vamos a reproducir, sobre una audio, la partitura que previamente hemos aprendido, y la <strong>Memoria procedimental</strong>, debido a la habilidad que hemos adquirido con el tiempo para aprender a tocar la flauta.</p>\n</div>\n<div id=\"t70813b7d-ac4d-bc5d-ca51-fba16fe8abb7\" class=\"exe-dialog-text js-hidden\">\n<p>A los alumnos que les falta destreza en la lectura musical, optan por aprenderse las melodías por imitación. Para esto son estos vídeos.</p>\n<p>En este caso trabajamos la <strong>Inhibición</strong>, para que ningún estímulo nos distraiga del foco que supone seguir el vídeo.</p>\n<p>Trabajaremos la <strong>Atención sostenida</strong>, para estar pendiente en todo momento de las posiciones de flauta.</p>\n<p>También vamos a trabajar la <strong>Metacognición</strong> porque al tocar sobre el vídeo, podremos valorar si nos la sabemos o no, y así repetirla hasta lograr el nivel deseado.</p>\n<p>Por último trabajaremos la <strong>Memoria procedimental</strong>, ya que vamos a aprender a tocar la flauta de la forma más básica, por imitación, ya vamos a desarrollar nuestra habilidad para tocar este instrumento.</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmg5onbg-zl5k7mlz8</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Trabajamos en grupo</pageName>
+  <odeNavStructureOrder>3</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Trabajamos en grupo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Trabajamos en grupo</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmg5onbg-zl5k7mlz8</odePageId>
+      <odeBlockId>block-mmccv0y4-g2wzhbqx3</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onbg-zl5k7mlz8</odePageId>
+          <odeBlockId>block-mmccv0y4-g2wzhbqx3</odeBlockId>
+          <odeIdeviceId>idevice-mmccv0y4-dcumfv5r6</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Ya hemos trabajado individualmente en casa cada una de nuestras partituras. Ahora vamos a trabajar en grupos los que tocamos la misma parte de la canción.<br /></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">¡A ver cómo suena!</span></p>
+<figure class="exe-figure exe-image license-CC-BY-SA position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/pexels-violins-1838390_1920.jpg" alt="" title="Flautas en grupo" width="1366" height="911" />
+<figcaption class="figcaption">Imagen de Pexels en Pixabay</figcaption>
+</figure>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"><br /></span><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mmccv0y4-dcumfv5r6","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Ya hemos trabajado individualmente en casa cada una de nuestras partituras. Ahora vamos a trabajar en grupos los que tocamos la misma parte de la canción.<br /></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">¡A ver cómo suena!</span></p>\n<figure class=\"exe-figure exe-image license-CC-BY-SA position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/pexels-violins-1838390_1920.jpg\" alt=\"\" title=\"Flautas en grupo\" width=\"1366\" height=\"911\" />\n<figcaption class=\"figcaption\">Imagen de Pexels en Pixabay</figcaption>\n</figure>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"><br /></span><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mmg5onbg-zl5k7mlz8</odePageId>
+      <odeBlockId>block-mmccv0y4-uolqe9udc</odeBlockId>
+      <blockName>Actividad 2: El grupo de expertos</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onbg-zl5k7mlz8</odePageId>
+          <odeBlockId>block-mmccv0y4-uolqe9udc</odeBlockId>
+          <odeIdeviceId>idevice-mmccv0y4-9uqx6xpwe</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: right;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"><a title="Funciones Ejecutivas" class="exe-dialog-link" rel="lightbox" href="#t6ebd4559-45ee-cf29-2fcb-9310d382910b" id="link6ebd4559-45ee-cf29-2fcb-9310d382910b"><img src="{{context_path}}/content/resources/Logo_doctora_L_1.png" alt="Función ejecutiva" title="Función ejecutiva" width="110" height="100" /></a><img src="{{context_path}}/content/resources/grupo.jpg" alt="Trabajo en grupo" title="Trabajo en grupo" width="100" height="100" /></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Vamos a trabajar las partituras en grupo, pero de una en una.</span><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span></p>
+<div class="exe-fx exe-accordion">
+<h2>Dónde están las llaves</h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Esta partitura la vamos a trabajar toda la clase juntos, pues todas las melodías son iguales.</span></p>
+<h2>El Ponpón</h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Ahora vamos con “El Ponpón”. Nos agrupamos todos los miembros de los diferentes grupos que tocamos la flauta 1, en otro grupo los que tocamos la flauta 2, y en otro los que tocamos la flauta 3, y las interpretamos en estos grupos. </span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Lo ideal es tener dependencias separadas, para que NO nos molestemos entre los grupos. Como esto es bastante difícil de conseguir, tenemos <strong>dos alternativas</strong>:</span></p>
+<ol>
+<li><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Nos agrupamos lo más alejados unos de otros, y tocamos suave para respetarnos.</span></li>
+<li><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"> Tocamos por separado cada grupo de expertos asignándonos un tiempo. Lo ideal es entre 3 y 5 minutos, pero va a depender de la dificultad, de la capacidad y del trabajo previo de los alumnos. Primero tocaremos los que tenemos la flauta 1, luego los que tocamos la flauta 2, y por último los que tocamos la flauta 3.<br /></span></li>
+</ol>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Evidentemente, la segunda opción ralentiza el trabajo, pero puede llegar a ser más efectivo.</span></p>
+<h2>El Canon de las notas</h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Tocamos ahora “El canon de las notas”, y en esta ocasión vamos a interpretar toda la clase la flauta 1, puesto que son las mismas notas que en la flauta 2, y flauta 3. Cuando la interpretemos en nuestro grupo, la diferencia va a ser que cada melodía comienza en un momento distinto, creando un <strong>efecto de eco.</strong><br /></span></p>
+<h2>El Himno de la Alegría</h2>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Por último, vamos con “El Himno de la Alegría”. Aquí nos juntamos los que tocamos flauta 1 por un lado, los que tocamos xilófono 1 por otro y, por último, los que tocamos xilófono 2. </span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Para trabajarla, lo hacemos como en la canción del “Ponpón”: o las interpretamos en dependencias separadas, o alejados un grupo de otro respetándonos, o por separado asignándonos un tiempo para cada grupo. Primero, comenzaremos los que tocamos flauta 1, luego los que tocamos xilófono 1, y por último los que tocamos xilófono 2.</span></p>
+</div>
+<p></p>
+<div id="t6ebd4559-45ee-cf29-2fcb-9310d382910b" class="exe-dialog-text js-hidden">
+<p>En este caso trabajamos en grupo tocando todos lo mismo.</p>
+<p>Trabajamos la <strong>Inhibición</strong>, porque debemos centrarnos en nuestro grupo, independientemente de lo que hagan el resto de compañeros, y cuando toquemos juntos, tenemos que ser capaces de ignorar lo que toquen el resto de compañeros.</p>
+<p>Trabajaremos la <strong>Atención dividida</strong>, porque tenemos que estar pendiente de lo que nosotros toquemos, escucharnos, y escuchar al resto de miembros del grupo para ir todos al mismo tempo.</p>
+<p>También en este caso trabajaremos la <strong>Atención sostenida</strong>, porque debemos mantener la atención durante todo el tiempo que dure la interpretación.</p>
+<p>Otra función ejecutiva que trabajaremos será la <strong>Planificación</strong>, porque antes de empezar debemos concretar la velocidad con la que vamos a interpretar la canción, y quién es el que va a dar la entrada para que todos empecemos a la vez.</p>
+<p>También puntualmente utilizaremos la <strong>Flexibilidad cognitiva</strong>, porque si en un momento dado nos equivocamos o nos paramos, el resto de los compañeros va a seguir, y nosotros debemos intentar retomar la canción en el punto en el que se encuentre.</p>
+<p>Vamos a trabajar la <strong>Metacognición</strong> porque debemos valorar cómo nos sale la partitura, y de esta forma repasar los fragmentos en los que detectemos dificultades.</p>
+<p>Por último trabajaremos la <strong>Memoria de trabajo</strong>, puesto que vamos a interpretar la partitura que previamente hemos aprendido, y la <strong>Memoria procedimental</strong>, debido a la habilidad que hemos adquirido con el tiempo para aprender a tocar la flauta.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: right;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"><a title=\"Funciones Ejecutivas\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#t6ebd4559-45ee-cf29-2fcb-9310d382910b\" id=\"link6ebd4559-45ee-cf29-2fcb-9310d382910b\"><img src=\"{{context_path}}/content/resources/Logo_doctora_L_1.png\" alt=\"Función ejecutiva\" title=\"Función ejecutiva\" width=\"110\" height=\"100\" /></a><img src=\"{{context_path}}/content/resources/grupo.jpg\" alt=\"Trabajo en grupo\" title=\"Trabajo en grupo\" width=\"100\" height=\"100\" /></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Vamos a trabajar las partituras en grupo, pero de una en una.</span><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span></p>\n<div class=\"exe-fx exe-accordion\">\n<h2>Dónde están las llaves</h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Esta partitura la vamos a trabajar toda la clase juntos, pues todas las melodías son iguales.</span></p>\n<h2>El Ponpón</h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Ahora vamos con “El Ponpón”. Nos agrupamos todos los miembros de los diferentes grupos que tocamos la flauta 1, en otro grupo los que tocamos la flauta 2, y en otro los que tocamos la flauta 3, y las interpretamos en estos grupos. </span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Lo ideal es tener dependencias separadas, para que NO nos molestemos entre los grupos. Como esto es bastante difícil de conseguir, tenemos <strong>dos alternativas</strong>:</span></p>\n<ol>\n<li><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Nos agrupamos lo más alejados unos de otros, y tocamos suave para respetarnos.</span></li>\n<li><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"> Tocamos por separado cada grupo de expertos asignándonos un tiempo. Lo ideal es entre 3 y 5 minutos, pero va a depender de la dificultad, de la capacidad y del trabajo previo de los alumnos. Primero tocaremos los que tenemos la flauta 1, luego los que tocamos la flauta 2, y por último los que tocamos la flauta 3.<br /></span></li>\n</ol>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Evidentemente, la segunda opción ralentiza el trabajo, pero puede llegar a ser más efectivo.</span></p>\n<h2>El Canon de las notas</h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Tocamos ahora “El canon de las notas”, y en esta ocasión vamos a interpretar toda la clase la flauta 1, puesto que son las mismas notas que en la flauta 2, y flauta 3. Cuando la interpretemos en nuestro grupo, la diferencia va a ser que cada melodía comienza en un momento distinto, creando un <strong>efecto de eco.</strong><br /></span></p>\n<h2>El Himno de la Alegría</h2>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Por último, vamos con “El Himno de la Alegría”. Aquí nos juntamos los que tocamos flauta 1 por un lado, los que tocamos xilófono 1 por otro y, por último, los que tocamos xilófono 2. </span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Para trabajarla, lo hacemos como en la canción del “Ponpón”: o las interpretamos en dependencias separadas, o alejados un grupo de otro respetándonos, o por separado asignándonos un tiempo para cada grupo. Primero, comenzaremos los que tocamos flauta 1, luego los que tocamos xilófono 1, y por último los que tocamos xilófono 2.</span></p>\n</div>\n<p></p>\n<div id=\"t6ebd4559-45ee-cf29-2fcb-9310d382910b\" class=\"exe-dialog-text js-hidden\">\n<p>En este caso trabajamos en grupo tocando todos lo mismo.</p>\n<p>Trabajamos la <strong>Inhibición</strong>, porque debemos centrarnos en nuestro grupo, independientemente de lo que hagan el resto de compañeros, y cuando toquemos juntos, tenemos que ser capaces de ignorar lo que toquen el resto de compañeros.</p>\n<p>Trabajaremos la <strong>Atención dividida</strong>, porque tenemos que estar pendiente de lo que nosotros toquemos, escucharnos, y escuchar al resto de miembros del grupo para ir todos al mismo tempo.</p>\n<p>También en este caso trabajaremos la <strong>Atención sostenida</strong>, porque debemos mantener la atención durante todo el tiempo que dure la interpretación.</p>\n<p>Otra función ejecutiva que trabajaremos será la <strong>Planificación</strong>, porque antes de empezar debemos concretar la velocidad con la que vamos a interpretar la canción, y quién es el que va a dar la entrada para que todos empecemos a la vez.</p>\n<p>También puntualmente utilizaremos la <strong>Flexibilidad cognitiva</strong>, porque si en un momento dado nos equivocamos o nos paramos, el resto de los compañeros va a seguir, y nosotros debemos intentar retomar la canción en el punto en el que se encuentre.</p>\n<p>Vamos a trabajar la <strong>Metacognición</strong> porque debemos valorar cómo nos sale la partitura, y de esta forma repasar los fragmentos en los que detectemos dificultades.</p>\n<p>Por último trabajaremos la <strong>Memoria de trabajo</strong>, puesto que vamos a interpretar la partitura que previamente hemos aprendido, y la <strong>Memoria procedimental</strong>, debido a la habilidad que hemos adquirido con el tiempo para aprender a tocar la flauta.</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmg5onbh-uz4djj8gp</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El Ensayo General</pageName>
+  <odeNavStructureOrder>4</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Ensayo General</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El Ensayo General</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmg5onbh-uz4djj8gp</odePageId>
+      <odeBlockId>block-mmccv0y4-qnu7y19td</odeBlockId>
+      <blockName>Actividad 3: El ensayo general</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onbh-uz4djj8gp</odePageId>
+          <odeBlockId>block-mmccv0y4-qnu7y19td</odeBlockId>
+          <odeIdeviceId>idevice-mmccv0y4-3cyueb5xd</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p style="text-align: right;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"><a title="Función Ejecutiva" class="exe-dialog-link" rel="lightbox" href="#tad2aacc1-eed5-c74d-9310-80ee69159f0e" id="linkad2aacc1-eed5-c74d-9310-80ee69159f0e"><img src="{{context_path}}/content/resources/Logo_doctora_L_1.png" alt="Función Ejecutiva" title="Función Ejecutiva" width="110" height="100" /></a><img src="{{context_path}}/content/resources/grupo.jpg" alt="Trabajo en grupo" title="Trabajo en grupo" width="100" height="100" /></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Tras los ensayos por cuerdas, vamos a volver a nuestro grupoy vamos a <strong>ensayar las partituras en conjunto</strong>, cada uno interpretando la parte que ha trabajado.</span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Ahora, debemos estar muy atentos. Es importante ponernos de acuerdo en la velocidad y en quién va a dar la entrada, si no va a ser un caos.</span></p>
+<p><strong><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">¡Adelante!</span><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"> </span></strong></p>
+<figure class="exe-figure exe-image license-CC-BY-SA position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/artesitalia-conductor-5157153_1920.jpg" alt="" title="Director de orquesta" width="1366" height="912" />
+<figcaption class="figcaption">Imagen de artesitalia en Pixabay</figcaption>
+</figure>
+<p><br /></p>
+<div id="tad2aacc1-eed5-c74d-9310-80ee69159f0e" class="exe-dialog-text js-hidden">
+<p>En este caso tocamos en grupo, pero salvo en una canción tocamos todos melodías distintas.</p>
+<p>Trabajamos la <strong>Inhibición</strong>, porque cuando toquemos las canciones, debemos centrarnos en nuestra melodía, independientemente de lo que hagan el resto de compañeros de nuestro grupo.</p>
+<p>Trabajaremos la <strong>Atención dividida</strong>, porque tenemos que estar pendiente de lo que nosotros toquemos, escucharnos, y escuchar al resto de miembros del grupo para ir todos al mismo tempo.</p>
+<p>También en este caso trabajaremos la <strong>Atención sostenida</strong>, porque debemos mantener la atención durante todo el tiempo que dure la interpretación.</p>
+<p>Otra función ejecutiva que trabajaremos será la <strong>Planificación</strong>, porque antes de empezar debemos concretar la velocidad con la que vamos a interpretar la canción, y quién es el que va a dar la entrada para que todos empecemos a la vez.</p>
+<p>También puntualmente utilizaremos la <strong>Flexibilidad cognitiva</strong>, porque si en un momento dado nos equivocamos o nos paramos, el resto de los compañeros va a seguir, y nosotros debemos intentar retomar la canción en el punto en el que se encuentre.</p>
+<p>Vamos a trabajar la <strong>Metacognición</strong> porque debemos valorar cómo nos sale la partitura, y de esta forma repasar los fragmentos en los que detectemos dificultades.</p>
+<p>Por último trabajaremos la <strong>Memoria de trabajo</strong>, puesto que vamos a interpretar la partitura que previamente hemos aprendido y repasado con nuestro “grupo de expertos”, y la <strong>Memoria procedimental</strong>, debido a la habilidad que hemos adquirido con el tiempo para aprender a tocar la flauta.</p>
+</div>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mmccv0y4-3cyueb5xd","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p style=\"text-align: right;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"><a title=\"Función Ejecutiva\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#tad2aacc1-eed5-c74d-9310-80ee69159f0e\" id=\"linkad2aacc1-eed5-c74d-9310-80ee69159f0e\"><img src=\"{{context_path}}/content/resources/Logo_doctora_L_1.png\" alt=\"Función Ejecutiva\" title=\"Función Ejecutiva\" width=\"110\" height=\"100\" /></a><img src=\"{{context_path}}/content/resources/grupo.jpg\" alt=\"Trabajo en grupo\" title=\"Trabajo en grupo\" width=\"100\" height=\"100\" /></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Tras los ensayos por cuerdas, vamos a volver a nuestro grupoy vamos a <strong>ensayar las partituras en conjunto</strong>, cada uno interpretando la parte que ha trabajado.</span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Ahora, debemos estar muy atentos. Es importante ponernos de acuerdo en la velocidad y en quién va a dar la entrada, si no va a ser un caos.</span></p>\n<p><strong><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">¡Adelante!</span><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"> </span></strong></p>\n<figure class=\"exe-figure exe-image license-CC-BY-SA position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/artesitalia-conductor-5157153_1920.jpg\" alt=\"\" title=\"Director de orquesta\" width=\"1366\" height=\"912\" />\n<figcaption class=\"figcaption\">Imagen de artesitalia en Pixabay</figcaption>\n</figure>\n<p><br /></p>\n<div id=\"tad2aacc1-eed5-c74d-9310-80ee69159f0e\" class=\"exe-dialog-text js-hidden\">\n<p>En este caso tocamos en grupo, pero salvo en una canción tocamos todos melodías distintas.</p>\n<p>Trabajamos la <strong>Inhibición</strong>, porque cuando toquemos las canciones, debemos centrarnos en nuestra melodía, independientemente de lo que hagan el resto de compañeros de nuestro grupo.</p>\n<p>Trabajaremos la <strong>Atención dividida</strong>, porque tenemos que estar pendiente de lo que nosotros toquemos, escucharnos, y escuchar al resto de miembros del grupo para ir todos al mismo tempo.</p>\n<p>También en este caso trabajaremos la <strong>Atención sostenida</strong>, porque debemos mantener la atención durante todo el tiempo que dure la interpretación.</p>\n<p>Otra función ejecutiva que trabajaremos será la <strong>Planificación</strong>, porque antes de empezar debemos concretar la velocidad con la que vamos a interpretar la canción, y quién es el que va a dar la entrada para que todos empecemos a la vez.</p>\n<p>También puntualmente utilizaremos la <strong>Flexibilidad cognitiva</strong>, porque si en un momento dado nos equivocamos o nos paramos, el resto de los compañeros va a seguir, y nosotros debemos intentar retomar la canción en el punto en el que se encuentre.</p>\n<p>Vamos a trabajar la <strong>Metacognición</strong> porque debemos valorar cómo nos sale la partitura, y de esta forma repasar los fragmentos en los que detectemos dificultades.</p>\n<p>Por último trabajaremos la <strong>Memoria de trabajo</strong>, puesto que vamos a interpretar la partitura que previamente hemos aprendido y repasado con nuestro “grupo de expertos”, y la <strong>Memoria procedimental</strong>, debido a la habilidad que hemos adquirido con el tiempo para aprender a tocar la flauta.</p>\n</div>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmg5onbh-7i46bhdi4</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>El concierto y la crítica</pageName>
+  <odeNavStructureOrder>5</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El concierto y la crítica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>El concierto y la crítica</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmg5onbh-7i46bhdi4</odePageId>
+      <odeBlockId>block-mmccv0y4-2mggfsymz</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>0</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onbh-7i46bhdi4</odePageId>
+          <odeBlockId>block-mmccv0y4-2mggfsymz</odeBlockId>
+          <odeIdeviceId>idevice-mmccv0y4-vxjapcu0e</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Ha llegado el momento. Ahora solo debemos dejarnos llevar y disfrutar con la música.<br /></span></p>
+<figure class="exe-figure exe-image license-CC-BY-SA position-center" style="width: 1366px;"><img src="{{context_path}}/content/resources/yunje5054-ensemble-619260_1920.jpg" alt="" title="Concierto" width="1366" height="911" />
+<figcaption class="figcaption">Imagen de yunje5054 en Pixabay</figcaption>
+</figure>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-mmccv0y4-vxjapcu0e","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Ha llegado el momento. Ahora solo debemos dejarnos llevar y disfrutar con la música.<br /></span></p>\n<figure class=\"exe-figure exe-image license-CC-BY-SA position-center\" style=\"width: 1366px;\"><img src=\"{{context_path}}/content/resources/yunje5054-ensemble-619260_1920.jpg\" alt=\"\" title=\"Concierto\" width=\"1366\" height=\"911\" />\n<figcaption class=\"figcaption\">Imagen de yunje5054 en Pixabay</figcaption>\n</figure>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+    <odePagStructure>
+      <odePageId>page-mmg5onbh-7i46bhdi4</odePageId>
+      <odeBlockId>block-mmccv0y4-pmibmtn3l</odeBlockId>
+      <blockName>Actividad 4: El Concierto y la crítica</blockName>
+      <iconName>activity</iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onbh-7i46bhdi4</odePageId>
+          <odeBlockId>block-mmccv0y4-pmibmtn3l</odeBlockId>
+          <odeIdeviceId>idevice-mmccv0y4-csexp0tyv</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<p style="text-align: right;"><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"><a title="Función Ejecutiva" class="exe-dialog-link" rel="lightbox" href="#tc8e85363-1c7e-8d6d-3769-a9f3c910a468" id="linkc8e85363-1c7e-8d6d-3769-a9f3c910a468"><img src="{{context_path}}/content/resources/Logo_doctora_L_1.png" alt="Función Ejecutiva" title="Función Ejecutiva" width="110" height="100" /></a><img src="{{context_path}}/content/resources/grupo.jpg" alt="Trabajo en grupo" title="Trabajo en grupo" width="100" height="100" /></span></p>
+<p><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;"></span><span style="font-size: 14pt; font-family: comic sans ms, sans-serif;">Cada grupo <strong>interpretaremos las 4 partituras</strong> seguidas delante de nuestros compañeros, y a continuación imprimiremos y rellenaremos la <a href="{{context_path}}/content/resources/AUTOEVALUACION_GRUPAL_CONCIERTO.3.pdf" target="_blank" rel="noopener noreferrer" title="plantilla grupal" onclick="window.open('resources/AUTOEVALUACION_GRUPAL_CONCIERTO.3.pdf','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;">plantilla grupal</a> de autoevaluación para <strong>criticar nuestra interpretación.</strong></span></p>
+<div id="tc8e85363-1c7e-8d6d-3769-a9f3c910a468" class="exe-dialog-text js-hidden">
+<p>En esta actividad vamos a interpretar en público las canciones que hemos trabajado y vamos a valorar nuestro trabajo.</p>
+<p>En esta actividad será muy importante la <strong>Inhibición</strong>, ya no solo por estar centrado en nuestra melodía frente a la de nuestros compañeros, sino también, por el hecho de tocar ante un público. Para evitar inseguridades será necesario centrarnos en la música y no en factores externos.</p>
+<p>Por supuesto trabajaremos la <strong>Atención dividida</strong>, porque tenemos que estar pendiente de lo que nosotros toquemos, escucharnos, y escuchar al resto de miembros del grupo para ir todos al mismo <em>tempo</em>.</p>
+<p><strong>La Atención sostenida</strong>, para mantener la atención durante todo el tiempo que dure la interpretación.</p>
+<p>La <strong>Flexibilidad cognitiva</strong>, por si se da el caso de que nos equivocamos o nos paramos, buscaremos un punto para retomar la canción.</p>
+<p>Trabajaremos la <strong>Metacognición</strong> porque debemos valorar el resultado de nuestra interpretación para poder valorarla después.</p>
+<p>Y como siempre la <strong>Memoria de trabajo</strong>, puesto que vamos a interpretar la partitura que hemos trabajado, y la <strong>Memoria procedimenta</strong>l, debido a la habilidad que hemos adquirido con el tiempo para aprender a tocar la flauta.</p>
+<p>En la <strong>autoevaluación grupal</strong>, trabajaremos la <strong>Metacognición</strong> para valorar nuestra interpretación, la <strong>Atención selectiva</strong>, para responder a las preguntas concretas que nos hace de cada canción y la <strong>Memoria de trabajo</strong> para recordar el resultado la interpretación.</p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"textTextarea":"<p style=\"text-align: right;\"><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"><a title=\"Función Ejecutiva\" class=\"exe-dialog-link\" rel=\"lightbox\" href=\"#tc8e85363-1c7e-8d6d-3769-a9f3c910a468\" id=\"linkc8e85363-1c7e-8d6d-3769-a9f3c910a468\"><img src=\"{{context_path}}/content/resources/Logo_doctora_L_1.png\" alt=\"Función Ejecutiva\" title=\"Función Ejecutiva\" width=\"110\" height=\"100\" /></a><img src=\"{{context_path}}/content/resources/grupo.jpg\" alt=\"Trabajo en grupo\" title=\"Trabajo en grupo\" width=\"100\" height=\"100\" /></span></p>\n<p><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\"></span><span style=\"font-size: 14pt; font-family: comic sans ms, sans-serif;\">Cada grupo <strong>interpretaremos las 4 partituras</strong> seguidas delante de nuestros compañeros, y a continuación imprimiremos y rellenaremos la <a href=\"{{context_path}}/content/resources/AUTOEVALUACION_GRUPAL_CONCIERTO.3.pdf\" target=\"_blank\" rel=\"noopener noreferrer\" title=\"plantilla grupal\" onclick=\"window.open('resources/AUTOEVALUACION_GRUPAL_CONCIERTO.3.pdf','eXeLearningPopup','width=600,height=400,left='+(screen.availWidth/2-300)+',top='+(screen.availHeight/2-200)+'');return false;\">plantilla grupal</a> de autoevaluación para <strong>criticar nuestra interpretación.</strong></span></p>\n<div id=\"tc8e85363-1c7e-8d6d-3769-a9f3c910a468\" class=\"exe-dialog-text js-hidden\">\n<p>En esta actividad vamos a interpretar en público las canciones que hemos trabajado y vamos a valorar nuestro trabajo.</p>\n<p>En esta actividad será muy importante la <strong>Inhibición</strong>, ya no solo por estar centrado en nuestra melodía frente a la de nuestros compañeros, sino también, por el hecho de tocar ante un público. Para evitar inseguridades será necesario centrarnos en la música y no en factores externos.</p>\n<p>Por supuesto trabajaremos la <strong>Atención dividida</strong>, porque tenemos que estar pendiente de lo que nosotros toquemos, escucharnos, y escuchar al resto de miembros del grupo para ir todos al mismo <em>tempo</em>.</p>\n<p><strong>La Atención sostenida</strong>, para mantener la atención durante todo el tiempo que dure la interpretación.</p>\n<p>La <strong>Flexibilidad cognitiva</strong>, por si se da el caso de que nos equivocamos o nos paramos, buscaremos un punto para retomar la canción.</p>\n<p>Trabajaremos la <strong>Metacognición</strong> porque debemos valorar el resultado de nuestra interpretación para poder valorarla después.</p>\n<p>Y como siempre la <strong>Memoria de trabajo</strong>, puesto que vamos a interpretar la partitura que hemos trabajado, y la <strong>Memoria procedimenta</strong>l, debido a la habilidad que hemos adquirido con el tiempo para aprender a tocar la flauta.</p>\n<p>En la <strong>autoevaluación grupal</strong>, trabajaremos la <strong>Metacognición</strong> para valorar nuestra interpretación, la <strong>Atención selectiva</strong>, para responder a las preguntas concretas que nos hace de cada canción y la <strong>Memoria de trabajo</strong> para recordar el resultado la interpretación.</p>\n</div>"}]]></jsonProperties>
+          <odeComponentsOrder>1</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+<odeNavStructure>
+  <odePageId>page-mmg5onbi-nrxpt4wj5</odePageId>
+  <odeParentPageId></odeParentPageId>
+  <pageName>Créditos</pageName>
+  <odeNavStructureOrder>6</odeNavStructureOrder>
+  <odeNavStructureProperties>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>visibility</key>
+      <value>true</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>highlight</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>hidePageTitle</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>editableInPage</key>
+      <value>false</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titlePage</key>
+      <value>Créditos</value>
+    </odeNavStructureProperty>
+    <odeNavStructureProperty>
+      <key>titleNode</key>
+      <value></value>
+    </odeNavStructureProperty>
+  </odeNavStructureProperties>
+  <odePagStructures>
+    <odePagStructure>
+      <odePageId>page-mmg5onbi-nrxpt4wj5</odePageId>
+      <odeBlockId>block-1772649362877-qonjprpoj</odeBlockId>
+      <blockName></blockName>
+      <iconName></iconName>
+      <odePagStructureOrder>1</odePagStructureOrder>
+      <odePagStructureProperties>
+        <odePagStructureProperty>
+          <key>visibility</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>teacherOnly</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>allowToggle</key>
+          <value>true</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>minimized</key>
+          <value>false</value>
+        </odePagStructureProperty>
+        <odePagStructureProperty>
+          <key>cssClass</key>
+          <value></value>
+        </odePagStructureProperty>
+      </odePagStructureProperties>
+      <odeComponents>
+        <odeComponent>
+          <odePageId>page-mmg5onbi-nrxpt4wj5</odePageId>
+          <odeBlockId>block-1772649362877-qonjprpoj</odeBlockId>
+          <odeIdeviceId>idevice-1772649362874-7zfp9ejkx</odeIdeviceId>
+          <odeIdeviceTypeName>text</odeIdeviceTypeName>
+          <htmlView><![CDATA[<div class="exe-text-template">
+    <p>"Actividad de evaluación"</p>
+<p>Actividad en la plataforma Google Classroom mediante un cuestionario de Google Forms.</p>
+<p> </p>
+<p>Imágenes</p>
+<p>Las imágenes han sido obtenidas desde la plataforma <a href="https://pixabay.com/es/">https://pixabay.com/es/</a></p>
+<p> </p>
+<p>Linkografia:</p>
+<p><a href="https://www.cognifit.com/es/funciones-ejecutivas">https://www.cognifit.com/es/funciones-ejecutivas</a></p>
+<p><a href="https://www.lifeder.com/capacidades-cognitivas/">https://www.lifeder.com/capacidades-cognitivas/</a></p>
+<p><a href="https://sites.google.com/educarex.es/orientando-t/dpto-de-orientaci%C3%B3n?authuser=0">https://sites.google.com/educarex.es/orientando-t/dpto-de-orientaci%C3%B3n?authuser=0</a></p>
+<p><a href="https://psicologiaymente.com/inteligencia/funciones-ejecutivas">https://psicologiaymente.com/inteligencia/funciones-ejecutivas</a></p>
+<p> </p>
+<p>Versión:</p>
+<p>- Modificación de Valle Serrano Haro. </p>
+<p>- CREA original de José Luis López - Docentes CREA. Secretaría General de Educación. Consejería de Educación y Empleo. Junta de Extremadura. Revisado por Mª Milagros Rubio Pulido (GSEEX).</p>
+<p><a href="https://emtic.educarex.es/proyectocrea-mates/285-emtic/proyecto-crea/3283-proyectocrea-musica">https://emtic.educarex.es/proyectocrea-mates/285-emtic/proyecto-crea/3283-proyectocrea-musica</a></p>
+</div>]]></htmlView>
+          <jsonProperties><![CDATA[{"ideviceId":"idevice-1772649362874-7zfp9ejkx","textInfoDurationInput":"","textInfoDurationTextInput":"Duración","textInfoParticipantsInput":"","textInfoParticipantsTextInput":"Agrupamiento","textTextarea":"<p>\"Actividad de evaluación\"</p>\n<p>Actividad en la plataforma Google Classroom mediante un cuestionario de Google Forms.</p>\n<p> </p>\n<p>Imágenes</p>\n<p>Las imágenes han sido obtenidas desde la plataforma <a href=\"https://pixabay.com/es/\">https://pixabay.com/es/</a></p>\n<p> </p>\n<p>Linkografia:</p>\n<p><a href=\"https://www.cognifit.com/es/funciones-ejecutivas\">https://www.cognifit.com/es/funciones-ejecutivas</a></p>\n<p><a href=\"https://www.lifeder.com/capacidades-cognitivas/\">https://www.lifeder.com/capacidades-cognitivas/</a></p>\n<p><a href=\"https://sites.google.com/educarex.es/orientando-t/dpto-de-orientaci%C3%B3n?authuser=0\">https://sites.google.com/educarex.es/orientando-t/dpto-de-orientaci%C3%B3n?authuser=0</a></p>\n<p><a href=\"https://psicologiaymente.com/inteligencia/funciones-ejecutivas\">https://psicologiaymente.com/inteligencia/funciones-ejecutivas</a></p>\n<p> </p>\n<p>Versión:</p>\n<p>- Modificación de Valle Serrano Haro. </p>\n<p>- CREA original de José Luis López - Docentes CREA. Secretaría General de Educación. Consejería de Educación y Empleo. Junta de Extremadura. Revisado por Mª Milagros Rubio Pulido (GSEEX).</p>\n<p><a href=\"https://emtic.educarex.es/proyectocrea-mates/285-emtic/proyecto-crea/3283-proyectocrea-musica\">https://emtic.educarex.es/proyectocrea-mates/285-emtic/proyecto-crea/3283-proyectocrea-musica</a></p>","textFeedbackInput":"Mostrar retroalimentación","textFeedbackTextarea":""}]]></jsonProperties>
+          <odeComponentsOrder>0</odeComponentsOrder>
+          <odeComponentsProperties>
+            <odeComponentsProperty>
+              <key>visibility</key>
+              <value>true</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>teacherOnly</key>
+              <value>false</value>
+            </odeComponentsProperty>
+            <odeComponentsProperty>
+              <key>cssClass</key>
+              <value></value>
+            </odeComponentsProperty>
+          </odeComponentsProperties>
+        </odeComponent>
+      </odeComponents>
+    </odePagStructure>
+  </odePagStructures>
+</odeNavStructure>
+</odeNavStructures>
+</ode>
